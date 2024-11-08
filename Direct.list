@@ -5,6 +5,7 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,api.insight.synology.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -58,6 +59,7 @@ DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,myds.me
+DOMAIN-SUFFIX,api.insight.synology.com
 
 
 # 58
